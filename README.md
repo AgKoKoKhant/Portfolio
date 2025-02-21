@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! I am Aung Ko Ko Khant, a passionate Software Engineer and Photographer. I specialize in developing seamless digital solutions and capturing moments through my lens.
 
 ## 🌍 Live Portfolio
-Visit my portfolio website [here](#) (Replace with actual URL).
+
 
 ---
 
@@ -11,12 +11,8 @@ Visit my portfolio website [here](#) (Replace with actual URL).
 
 I am a software engineer with a strong interest in building scalable and efficient applications. My expertise includes web development, cloud computing, microservices, and API development. Additionally, I have a deep passion for photography, capturing stunning moments and integrating technology into creative storytelling.
 
-### 🔗 Connect with Me
-- [My Resume](#) (Replace with actual link)
-- [GitHub](#) (Replace with actual GitHub profile)
-- [LinkedIn](#) (Replace with actual LinkedIn profile)
 
----
+
 
 ## 🚀 My Projects
 
@@ -73,6 +69,5 @@ Besides software engineering, I have a deep passion for photography. I specializ
 ---
 
 ## 📩 Contact Me
-- 📧 Email: [your-email@example.com] (Replace with actual email)
-- 🌐 Website: [your-portfolio-link.com] (Replace with actual website)
-- 📷 Instagram: [@yourinstagram](#) (Replace with actual Instagram)
+- 📧 Email: aungkhant.crystallozti@gmail.com
+-  Linkedin: https://www.linkedin.com/in/aung-ko-ko-khant-a2b449226/
